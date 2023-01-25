@@ -1,0 +1,14 @@
+.single{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 1em;
+    gap: 1em;
+}
+.single-post {
+  border: 1px solid black;
+  padding: 1em;
+  width:calc(1920px / 3.5);
+}
+p{
+    text-align: start;
+}
